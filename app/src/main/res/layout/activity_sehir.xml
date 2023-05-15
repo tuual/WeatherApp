@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+
+    android:background="@color/btnColor"
+    tools:context=".SehirActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+<pl.droidsonroids.gif.GifImageView
+    android:id="@+id/layouthava"
+    android:orientation="vertical"
+    android:background="@drawable/havadurumu"
+
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_marginTop="0dp"
+    android:layout_height="500dp"/>
+
+    <EditText
+
+        android:id="@+id/etSehir"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+
+        android:layout_marginRight="50dp"
+        android:background="@drawable/edittext_style"
+        android:hint="Şehir Giriniz"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        />
+
+
+    <EditText
+        android:id="@+id/etUlke"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:hint="Ülke Giriniz"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"/>
+
+
+    <Button
+        android:id="@+id/btnGoster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/button_style"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="Hava Durumunu Öğren"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+    </LinearLayout>
+</ScrollView>

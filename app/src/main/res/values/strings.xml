@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+
+    <string name="onikiaz">Sıkı Giyinmeyi Unutmaa &#10052; </string>
+    <string name="onikiyuksek">Yanına Ceketini Alıp Çık &#128526;</string>
+    <string name="onikidahayuksek">Tam Denizlik Hava &#127774; </string>
+
+</resources>
