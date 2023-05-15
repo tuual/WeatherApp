@@ -2,13 +2,10 @@
 Belirlenen Şehrin,
 Ülkenin,İlçenin hava durumunu gösteren uygulama.
 
-![Ekran görüntüsü 2023-05-06 221245](https://user-images.githubusercontent.com/40033211/236642589-c430ebcc-b026-4188-8e6a-ba6a1debaab9.png)
+![image](https://github.com/tuual/WeatherApp/assets/40033211/0c690793-8c66-4d11-8ae3-9c0c8bfd192a)
 
 
-
-![Ekran görüntüsü 2023-05-06 221416](https://user-images.githubusercontent.com/40033211/236642594-5f6d4814-68cf-4413-bf6e-e957f3fa2f0a.png)
-
+![image](https://github.com/tuual/WeatherApp/assets/40033211/c982efe5-cc31-4247-b1f1-5f09aa541ec5)
 
 
-
-![Ekran görüntüsü 2023-05-06 221438](https://user-images.githubusercontent.com/40033211/236642595-0b4d7e7b-3413-4111-9dbb-18b521e749d3.png)
+![image](https://github.com/tuual/WeatherApp/assets/40033211/29f9ac85-e292-4547-b878-1c07f1a6dd76)
